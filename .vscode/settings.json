@@ -1,5 +1,8 @@
 {
     "files.associations": {
-        "iostream": "cpp"
-    }
+        "iostream": "cpp",
+        "memory": "cpp",
+        "new": "cpp"
+    },
+    "code-runner.runInTerminal": true
 }
